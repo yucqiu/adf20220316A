@@ -1,0 +1,9 @@
+{
+	"name": "private-endpoint-test-qiuryan2",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "478e4cfd-9838-43ea-ad99-0594bc702dfb",
+		"tenantId": "9a2ffb93-1bfa-429a-aa08-333fb2558709"
+	}
+}
